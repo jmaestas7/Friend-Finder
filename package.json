@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "dating app",
+  "main": "server.js",
+  "engines": {
+    "node": "6.11.0",
+    "npm": "3.10.10"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "init": "^0.1.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmaestas7/friend-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmaestas7/friend-finder/issues"
+  },
+  "homepage": "https://github.com/jmaestas7/friend-finder#readme"
+}
